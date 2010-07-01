@@ -13,7 +13,7 @@
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'PageModule Costumization',
 	'description' => 'Costumization example for the Page Module of TYPO3 4.4',
-	'category' => 'backend',
+	'category' => 'be',
 	'author' => 'Steffen Ritter',
 	'author_email' => 'info@rs-websystems.de',
 	'author_company' => 'RS WebSystems',
