@@ -1,7 +1,7 @@
 <?php
 
 ########################################################################
-# Extension Manager/Repository config file for ext "rsextbasetools".
+# Extension Manager/Repository config file for ext "pagemdulecss".
 #
 # Auto generated 02-06-2010 13:59
 #
@@ -11,9 +11,9 @@
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Adapt PageModule Columns',
-	'description' => 'stellt das Verhältnis der Spalten fest ein',
-	'category' => 'RS WebSystems',
+	'title' => 'PageModule Costumization',
+	'description' => 'Costumization example for the Page Module of TYPO3 4.4',
+	'category' => 'backend',
 	'author' => 'Steffen Ritter',
 	'author_email' => 'info@rs-websystems.de',
 	'author_company' => 'RS WebSystems',
@@ -37,7 +37,6 @@ $EM_CONF[$_EXTKEY] = array(
 		'conflicts' => array(
 		),
 		'suggests' => array(
-			'pagebrowse' => '1.1.0-',
 		),
 	),
 	'suggests' => array(

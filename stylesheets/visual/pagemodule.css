@@ -1,5 +1,7 @@
-
-
 td.t3-page-column-2 {
 	background-color: #e8bf42;
+}
+
+td.t3-page-column-2 .t3-page-ce {
+	opacity: 0.8;
 }
